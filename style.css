@@ -1,0 +1,7 @@
+iframe.daily-co-frame {
+    position: fixed !important;
+    left: 0 !important;
+    width: 50% !important;
+    height: 80% !important;
+    border: none !important;
+}
